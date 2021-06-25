@@ -29,8 +29,8 @@ This project was developed using the following technologies:
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/guilhermecapitao/letmeask.git
-$ cd letmeask
+$ git clone https://github.com/eduardoouro/letmeask-together.git
+$ cd letmeask-together
 ```
 
 Follow the steps below:
